@@ -153,7 +153,14 @@ p {
     font-size: 18px;
 }
 .cls550 {
-    height: 500px;
-    width: 400px;
+    width: 90%;
     display: inline-block;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+.nwimg1 {
+    height: 600px;
+    width: 800px;
+    float: left;
+    padding: 3px 10px 3px 3px;
 }
