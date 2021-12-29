@@ -101,6 +101,7 @@ address {
     text-align:justify;
     padding-left: 10px;
     padding-bottom: 25px;
+    text-decoration:underline;
 }
 .adddiv {
     background-color: #C6D5FF;
@@ -127,7 +128,7 @@ b {
     padding: 10px;
   }
   
-  .grid-container > div {
+.grid-container > div {
     text-align:start;
     padding: 20px 0;
     margin-left: 53px;
@@ -150,4 +151,9 @@ p {
     font-weight: bold;
     color: #FF4141;
     font-size: 18px;
+}
+.cls550 {
+    height: 500px;
+    width: 400px;
+    display: inline-block;
 }
